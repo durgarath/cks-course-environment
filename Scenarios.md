@@ -4,12 +4,12 @@ Many topics in the CKS course have interactive in-browser Killercoda scenarios a
 
 | Topic | Scenarios |
 | -------- | ------- |
-| Foundation - Containers under the hood | [container-namespaces-docker](https://killercoda.com/killer-shell-cks/scenario/container-namespaces-docker) 🟢 <br> [container-namespaces-podman](https://killercoda.com/killer-shell-cks/scenario/container-namespaces-podman) 🟢|
-| Cluster Setup - Network Policies | [networkpolicy-create-default-deny](https://killercoda.com/killer-shell-cks/scenario/networkpolicy-create-default-deny) 🟢<br> [networkpolicy-namespace-communication](https://killercoda.com/killer-shell-cks/scenario/networkpolicy-namespace-communication) 🟢|
-| Cluster Setup - Secure Ingress | [ingress-create](https://killercoda.com/killer-shell-cks/scenario/ingress-create) 🟢 <br> [ingress-secure](https://killercoda.com/killer-shell-cks/scenario/ingress-secure) 🟢|
-| Cluster Setup - Node Metadata Protection | [networkpolicy-metadata-protection](https://killercoda.com/killer-shell-cks/scenario/networkpolicy-metadata-protection) 🟢|
-| Cluster Setup - CIS Benchmarks | [cis-benchmarks-kube-bench-fix-controlplane](https://killercoda.com/killer-shell-cks/scenario/cis-benchmarks-kube-bench-fix-controlplane) 🟢||
-| Cluster Setup - Verify Platform Binaries | [verify-platform-binaries-kubelet](https://killercoda.com/killer-shell-cks/scenario/verify-platform-binaries-kubelet) 🟢|
+| Foundation - Containers under the hood | [container-namespaces-docker](https://killercoda.com/killer-shell-cks/scenario/container-namespaces-docker)  <br> [container-namespaces-podman](https://killercoda.com/killer-shell-cks/scenario/container-namespaces-podman) |
+| Cluster Setup - Network Policies | [networkpolicy-create-default-deny](https://killercoda.com/killer-shell-cks/scenario/networkpolicy-create-default-deny) <br> [networkpolicy-namespace-communication](https://killercoda.com/killer-shell-cks/scenario/networkpolicy-namespace-communication) |
+| Cluster Setup - Secure Ingress | [ingress-create](https://killercoda.com/killer-shell-cks/scenario/ingress-create)  <br> [ingress-secure](https://killercoda.com/killer-shell-cks/scenario/ingress-secure) |
+| Cluster Setup - Node Metadata Protection | [networkpolicy-metadata-protection](https://killercoda.com/killer-shell-cks/scenario/networkpolicy-metadata-protection) |
+| Cluster Setup - CIS Benchmarks | [cis-benchmarks-kube-bench-fix-controlplane](https://killercoda.com/killer-shell-cks/scenario/cis-benchmarks-kube-bench-fix-controlplane) ||
+| Cluster Setup - Verify Platform Binaries | [verify-platform-binaries-kubelet](https://killercoda.com/killer-shell-cks/scenario/verify-platform-binaries-kubelet) |
 | Cluster Hardening - RBAC | [rbac-serviceaccount-permissions](https://killercoda.com/killer-shell-cks/scenario/rbac-serviceaccount-permissions) <br> [rbac-user-permissions](https://killercoda.com/killer-shell-cks/scenario/rbac-user-permissions) <br> [certificate-signing-requests-sign-manually](https://killercoda.com/killer-shell-cks/scenario/certificate-signing-requests-sign-manually) <br> [certificate-signing-requests-sign-k8s](https://killercoda.com/killer-shell-cks/scenario/certificate-signing-requests-sign-k8s) |
 | Cluster Hardening - Exercise caution in using ServiceAccounts | [serviceaccount-token-mounting](https://killercoda.com/killer-shell-cks/scenario/serviceaccount-token-mounting) |
 | Cluster Hardening - Restrict API Access | [apiserver-crash](https://killercoda.com/killer-shell-cks/scenario/apiserver-crash) <br> [apiserver-misconfigured](https://killercoda.com/killer-shell-cks/scenario/apiserver-misconfigured) <br> [apiserver-node-restriction](https://killercoda.com/killer-shell-cks/scenario/apiserver-node-restriction) |

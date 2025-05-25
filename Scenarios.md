@@ -6,7 +6,7 @@ Many topics in the CKS course have interactive in-browser Killercoda scenarios a
 | -------- | ------- |
 | Foundation - Containers under the hood | [container-namespaces-docker](https://killercoda.com/killer-shell-cks/scenario/container-namespaces-docker) 🟢 <br> [container-namespaces-podman](https://killercoda.com/killer-shell-cks/scenario/container-namespaces-podman) 🟢 |
 | Cluster Setup - Network Policies | [networkpolicy-create-default-deny](https://killercoda.com/killer-shell-cks/scenario/networkpolicy-create-default-deny) 🟢 <br> [networkpolicy-namespace-communication](https://killercoda.com/killer-shell-cks/scenario/networkpolicy-namespace-communication) 🟢|
-| Cluster Setup - Secure Ingress | [ingress-create](https://killercoda.com/killer-shell-cks/scenario/ingress-create) 🟢 <br> [ingress-secure](https://killercoda.com/killer-shell-cks/scenario/ingress-secure) |
+| Cluster Setup - Secure Ingress | [ingress-create](https://killercoda.com/killer-shell-cks/scenario/ingress-create) 🟢 <br> [ingress-secure](https://killercoda.com/killer-shell-cks/scenario/ingress-secure) 🟢|
 | Cluster Setup - Node Metadata Protection | [networkpolicy-metadata-protection](https://killercoda.com/killer-shell-cks/scenario/networkpolicy-metadata-protection) |
 | Cluster Setup - CIS Benchmarks | [cis-benchmarks-kube-bench-fix-controlplane](https://killercoda.com/killer-shell-cks/scenario/cis-benchmarks-kube-bench-fix-controlplane) ||
 | Cluster Setup - Verify Platform Binaries | [verify-platform-binaries-kubelet](https://killercoda.com/killer-shell-cks/scenario/verify-platform-binaries-kubelet) |
